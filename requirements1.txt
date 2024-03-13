@@ -1,0 +1,5 @@
+pytest==7.4.0
+selenium==3.141.0
+requests==2.31.0
+urllib3==1.26.16
+pip==22.3.1

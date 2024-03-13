@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<envoierment>
+    <waitTime>5</waitTime>
+    <browser>edge</browser>
+    <URL>'https://www.next.co.il/en'</URL>
+    <USER_EMAIL>M0583223614@gmail.com</USER_EMAIL>
+    <PASSWORD>michal123</PASSWORD>
+</envoierment>
